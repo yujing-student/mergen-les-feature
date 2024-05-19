@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="402b3b64-19b2-4026-9434-d0865952d21e" name="Changes" comment="index toegevoegd" />
+    <list default="true" id="402b3b64-19b2-4026-9434-d0865952d21e" name="Changes" comment="index toegevoegd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2test.html" beforeDir="false" afterPath="$PROJECT_DIR$/index2test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,21 +29,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yujing-student"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yujing-student&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yujing-student/mergen-les-feature.git",
-    "accountId": "48c1cd0f-8f60-45f1-b267-b42b37e35eda"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yujing-student/mergen-les-feature.git&quot;,
+    &quot;accountId&quot;: &quot;48c1cd0f-8f60-45f1-b267-b42b37e35eda&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2gUpJNs4a9Q6qEb11IBikQHPxji" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -81,6 +85,8 @@
       <option name="presentableId" value="Default" />
       <updated>1715761939197</updated>
       <workItem from="1715761940568" duration="585000" />
+      <workItem from="1716130787823" duration="59000" />
+      <workItem from="1716130859071" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="index toegevoegd">
       <option name="closed" value="true" />
