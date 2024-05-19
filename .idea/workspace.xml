@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="402b3b64-19b2-4026-9434-d0865952d21e" name="Changes" comment="index toegevoegd" />
+    <list default="true" id="402b3b64-19b2-4026-9434-d0865952d21e" name="Changes" comment="index toegevoegd">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,26 +22,26 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="1-feature" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yujing-student"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yujing-student&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yujing-student/mergen-les-feature.git",
-    "accountId": "48c1cd0f-8f60-45f1-b267-b42b37e35eda"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yujing-student/mergen-les-feature.git&quot;,
+    &quot;accountId&quot;: &quot;48c1cd0f-8f60-45f1-b267-b42b37e35eda&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2gUpJNs4a9Q6qEb11IBikQHPxji" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -50,7 +52,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "1-feature",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/OneDrive - HvA/jaar1/periode4/sprint11/testonderdelen/branches/les",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -98,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="index toegevoegd" />
+    <MESSAGE value="css toeveogen" />
+    <option name="LAST_COMMIT_MESSAGE" value="css toeveogen" />
   </component>
 </project>
