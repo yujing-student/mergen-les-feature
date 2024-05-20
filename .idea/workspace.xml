@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="402b3b64-19b2-4026-9434-d0865952d21e" name="Changes" comment="index toegevoegd">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.css" beforeDir="false" afterPath="$PROJECT_DIR$/test.css" afterDir="false" />
-    </list>
+    <list default="true" id="402b3b64-19b2-4026-9434-d0865952d21e" name="Changes" comment="section toegeoveogd feature branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715761999687</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="section toegeoveogd feature branch">
+      <option name="closed" value="true" />
+      <created>1716193890748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716193890748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="index toegevoegd" />
+    <MESSAGE value="section toegeoveogd feature branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="section toegeoveogd feature branch" />
   </component>
 </project>
